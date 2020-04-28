@@ -185,6 +185,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+
     private void initButtons() {
         button0 = (Button) findViewById(R.id.button0);
         button1 = (Button) findViewById(R.id.button1);
@@ -206,3 +207,6 @@ public class MainActivity extends AppCompatActivity {
         editText = (EditText) findViewById(R.id.editText);
     }
 }
+/**
+ *
+ */
