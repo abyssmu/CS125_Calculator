@@ -14,8 +14,9 @@
     <string name="equal">=</string>
     <string name="add">+</string>
     <string name="sub">-</string>
-    <string name="div">*</string>
-    <string name="mul">/</string>
+    <string name="div">/</string>
+    <string name="mul">*</string>
     <string name="clear">C</string>
     <string name="enter_text">Enter text</string>
+    <string name="space"> </string>
 </resources>
